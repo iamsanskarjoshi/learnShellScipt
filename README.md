@@ -1,1 +1,1 @@
-# learnShellScipt
+# learnShellScripts
